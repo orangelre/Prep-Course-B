@@ -6,7 +6,7 @@
 
 function devolverString(str) {
     // "Return" la string provista: str
-    // Tu código:
+    // Tu código:regsdfg
   }
   
   function suma(x, y) {
