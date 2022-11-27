@@ -16,6 +16,7 @@
     "axios": "^0.21.4",
     "git-remote-origin-url": "^3.1.0",
     "git-url-parse": "^11.6.0",
+    "ls": "^0.2.1",
     "simple-git": "^2.45.1"
   }
 }
